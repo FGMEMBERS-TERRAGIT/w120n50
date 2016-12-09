@@ -1,3 +1,8 @@
 OBJECT_SHARED Models/Airport/ndb.ac -118.814167 55.137778 644.74 180
 OBJECT_SHARED Models/Airport/ils.xml -118.876404 55.175968 665.01 45.29
 OBJECT_SHARED Models/Airport/localizer.xml -118.90004 55.187191 667.96 44.48
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LgMaint.ac -118.87655 55.17963 666.15 21.68
+# END dsf2stg
