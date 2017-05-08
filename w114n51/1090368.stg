@@ -1,3 +1,8 @@
 OBJECT_SHARED Models/Airport/ndb.ac -113.908889 51.080833 1064.86 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -113.882083 51.115056 1077.99 180
 OBJECT_SHARED Models/Airport/marker.ac -113.909262 51.081059 1065.09 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -113.99973 51.12484 990.93 0
+# END dsf2stg
