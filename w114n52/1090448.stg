@@ -3,3 +3,15 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -113.87 52.291389 794.37 18
 OBJECT_SHARED Models/Communications/radio-medium.xml -113.844722 52.293611 767.39 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -113.819167 52.286389 781.38 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -113.866111 52.255278 525.26 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac -113.91143 52.28837 0.00 48.4409
+OBJECT_SHARED Models/lib/stack_of_cones.ac -113.91132 52.28825 947.93 48.4409
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -113.91141 52.28838 947.99 350.291
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -113.91146 52.28826 947.93 48.4409
+OBJECT_SHARED Models/Misc/6barrels.ac -113.91123 52.28834 947.96 48.4409
+OBJECT_SHARED Models/Misc/6barrels.ac -113.91121 52.28834 947.96 48.4409
+OBJECT_SHARED Models/lib/2vending-machines.ac -113.91142 52.28837 947.96 260.641
+OBJECT_SHARED Models/lib/shed8x10.ac -113.91180 52.28748 947.93 261.254
+# END dsf2stg
